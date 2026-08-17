@@ -251,6 +251,8 @@ The key takeaway from this experiment is that **a lighter model can outperform a
 - ResNet50V2 with a much larger backbone (24.6M total params) converged earlier (best epoch 6, stopped at 14) and plateaued at **78.99%**
 - Both models struggled most with **Fishing Boat** and **Passenger Ship** — likely due to visual similarity with Bulk Carriers and other large vessels
 - **Liquefied Gas Ship** was the easiest class for ResNet50V2, achieving a perfect 1.00 F1-score, likely due to its highly distinctive spherical tank structure
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/5095e8b5-cbab-47d0-935d-43c2eff7b6ae" />
+
 
 ---
 
