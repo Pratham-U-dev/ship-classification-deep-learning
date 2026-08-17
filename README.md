@@ -12,6 +12,7 @@
 
 ## 📌 Table of Contents
 
+- [Result](#result)
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
@@ -23,6 +24,11 @@
 - [Limitations & Future Work](#limitations--future-work)
 - [References](#references)
 - [License](#license)
+
+---
+## Result
+<img width="914" height="506" alt="image" src="https://github.com/user-attachments/assets/d469bf65-63bd-407d-8e19-e852e46e4a53" />
+
 
 ---
 
